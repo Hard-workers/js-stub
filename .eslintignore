@@ -1,6 +1,12 @@
-# Logs
+.git
 .idea
 .vscode
+build
+.cache
+node_modules
+dest
+# Logs
+.idea
 logs
 *.log
 npm-debug.log*
